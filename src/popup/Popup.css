@@ -1,0 +1,17 @@
+.popup {
+  width: 300px;
+  padding: 10px;
+}
+
+.popup button {
+  width: 100%;
+  margin: 5px 0;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.popup .status {
+  margin-top: 10px;
+  padding: 5px;
+  color: #666;
+}
