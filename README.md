@@ -1,7 +1,7 @@
 # Network Limiter for DevTools
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/3a332416-5035-484e-92a6-d719c245716d" alt="Project Image" width="100" height="100">
+    <img src="https://github.com/user-attachments/assets/3a332416-5035-484e-92a6-d719c245716d" alt="Project Image">
 </p>
 
 ## Overview
