@@ -8,7 +8,7 @@
     "128": "icon.png"
   },
   "permissions": ["debugger", "activeTab", "tabs", "storage"],
-  "host_permissions": ["http://*/*", "https:/*/*"],
+  "host_permissions": ["http://*/*", "https://*/*"],
   "action": {
     "default_popup": "src/popup/index.html"
   },
